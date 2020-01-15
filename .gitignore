@@ -1,0 +1,6 @@
+build
+.vscode
+memcached/.idea/
+memcached/CMakeLists.txt
+memcached/cmake-build-debug/
+
